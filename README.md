@@ -1,7 +1,7 @@
 ## Bem-vindos ao meu perfil 💙
 
  Me chamo Vitória Dantes
-- Estou estudando na [Alura]
+- Estou estudando na [Alura] (https://www.alura.com.br)
 - Estou cursando o ensino médio
 - Ultilizo esse espaço para organização e compartilhamento dos meus projetos desenvolvidos
 
